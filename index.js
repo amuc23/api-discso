@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const { getDiscos, getDiscoById } = require("./discos.controllers");
+const { getDiscos, getDiscoById } = require("./controller/discos.controllers"); 
 
 const app = express();
 const puerto = 2006;
