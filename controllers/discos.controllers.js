@@ -1,5 +1,6 @@
 const { request, response } = require("express");
-const { discos } = require("./discos");
+const { discos } = require("../discos");
+
 
 const getDiscos = (req, res) => {
   return res.json({
