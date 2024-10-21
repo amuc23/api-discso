@@ -1,24 +1,24 @@
 const discos = [
   {
     "id": 1,
-    "titulo": "Abbey Road",
-    "artista": "The Beatles",
-    "anio": 1969,
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
-  },
-  {
-    "id": 2,
     "titulo": "Thriller",
     "artista": "Michael Jackson",
     "anio": 1982,
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png"
+    "imagen": "https://link-a-imagen-de-thriller.com"
+  },
+  {
+    "id": 2,
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "anio": 1973,
+    "imagen": "https://link-a-imagen-de-dark-side.com"
   },
   {
     "id": 3,
     "titulo": "Back in Black",
     "artista": "AC/DC",
     "anio": 1980,
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/45/Back_in_Black_cover.png"
+    "imagen": "https://link-a-imagen-de-back-in-black.com"
   }
 ];
 
